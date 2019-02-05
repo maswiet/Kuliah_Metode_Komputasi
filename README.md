@@ -19,21 +19,19 @@ Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi d
 Follow me on ![alt text][1.1]
 
 ## Prasyarat: -
-**Silabus**: Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
-ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
-gempa.
+**Silabus**: Pengenalan komputer dan pemprogaman, Struktur umum program, elemen-elemen pokok program dan algoritma program, Fungsi dan pemodulan dalam program, Operasi Bersyarat dan Operasi Perulangan, Larik dan Pointer (satu dimensi dan multi- dimensi), Operasi I/O dan Tampilan, Aplikasi komputasi dan pemprograman dalam Fisika dan Geofisika. Pemrosesan data : Karakteristik Data geofisika (data lapangan dan pembangkitan data sintetik), Analisa sifat statistik data geofisika (Ratarata , Modus, Median, Distribusi dan Variansi, Deviasi standar ), Analisa data dalam kawasan ruang frekuensi, Pentapisan ( Tapis lolos bawah , lolos atas, lolos pita dan tapis stop pita), Pembuatan Kontr.
 
 ## Kompetensi yang diberikan
 
 Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah MMK ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya:
-1. G3 Ketrampilan Umum
-2. G4 Ketrampilan Khusus
-3. G5 Ketrampilan Khusus
+1. G2 Pengetahuan
+2. G3 Ketrampilan Umum
+
 
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Kamis, jam 15:30 s.d. 17:10 di S1.102
+- Jum'at, jam 13:30 s.d. 15:10 di S1.101
 
 Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
@@ -64,7 +62,7 @@ T.B.A = to-be-anounced
 ## BukuAcuan:
 1. Scopatz and Huff, 2015: Effective Computation in Physics, O'Reilly MediaElsevier, Netherland.
 2. Downey, 2015. Think Python, [Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.pdf), Massachusetts.
-3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
+
 
 <img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51CxdWNJ%2BOL._SX379_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
 
