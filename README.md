@@ -9,7 +9,7 @@
 # Kuliah Metode Komputasi (MFG1902)
 Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
-![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png)
+![Seismograms](https://www.researchgate.net/profile/Heiner_Igel/publication/284186510/figure/fig5/AS:297878586183684@1448031197272/Examples-of-3D-grids-a-Stair-step-representation-of-a-complex-free-surface-with-fi.png)
 ## Aras Kompetensi
 Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi, tentang gempa bumi dalam rangka memahami terminologi, dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang gempabumi. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa dan tindakan untuk mengurangi risiko bila terjadi gempa.
 
