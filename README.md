@@ -63,10 +63,10 @@ T.B.A = to-be-anounced
 
 ## BukuAcuan:
 1. Scopatz and Huff, 2015: Effective Computation in Physics, O'Reilly MediaElsevier, Netherland.
-2. Markus Bath (1979). Introduction to Seismology, Birkhauser Verlag.
+2. Downey, 2015. Think Python, [Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.pdf), Massachusetts.
 3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
 
-<img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
+<img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51CxdWNJ%2BOL._SX379_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
 
 ## Aplikasi Seismologi:
 1. [Obspy](https://github.com/obspy/obspy/wiki): A Python Framework for Seismology.
