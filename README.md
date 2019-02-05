@@ -11,7 +11,7 @@ Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
 ![Seismograms](https://www.researchgate.net/profile/Heiner_Igel/publication/284186510/figure/fig5/AS:297878586183684@1448031197272/Examples-of-3D-grids-a-Stair-step-representation-of-a-complex-free-surface-with-fi.png)
 ## Aras Kompetensi
-Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar untuk memecahkan permasalahan di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak.
+Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer untuk memecahkan masalah di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
 ## Pengampu
 - Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
@@ -19,7 +19,8 @@ Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi d
 Follow me on ![alt text][1.1]
 
 ## Prasyarat: -
-**Silabus**: Pengenalan komputer dan pemprogaman, Struktur umum program, elemen-elemen pokok program dan algoritma program, Fungsi dan pemodulan dalam program, Operasi Bersyarat dan Operasi Perulangan, Larik dan Pointer (satu dimensi dan multi- dimensi), Operasi I/O dan Tampilan, Aplikasi komputasi dan pemprograman dalam Fisika dan Geofisika. Pemrosesan data : Karakteristik Data geofisika (data lapangan dan pembangkitan data sintetik), Analisa sifat statistik data geofisika (Ratarata , Modus, Median, Distribusi dan Variansi, Deviasi standar ), Analisa data dalam kawasan ruang frekuensi, Pentapisan ( Tapis lolos bawah , lolos atas, lolos pita dan tapis stop pita), Pembuatan Kontr.
+## **Silabus**: 
+Pengenalan komputer dan pemprogaman, Struktur umum program, elemen-elemen pokok program dan algoritma program, Fungsi dan pemodulan dalam program, Operasi Bersyarat dan Operasi Perulangan, Larik dan Pointer (satu dimensi dan multi- dimensi), Operasi I/O dan Tampilan, Aplikasi komputasi dan pemprograman dalam Fisika dan Geofisika. Pemrosesan data : Karakteristik Data geofisika (data lapangan dan pembangkitan data sintetik), Analisa sifat statistik data geofisika (Ratarata , Modus, Median, Distribusi dan Variansi, Deviasi standar ), Analisa data dalam kawasan ruang frekuensi, Pentapisan ( Tapis lolos bawah , lolos atas, lolos pita dan tapis stop pita), Pembuatan Kontr.
 
 ## Kompetensi yang diberikan
 
@@ -39,13 +40,13 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Sejarah dan Wawasan Seismologi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Untitled1.ipynb) |
-| 2     | Prinsip Kerja Seismometer | T.B.A |
-| 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | T.B.A |
-| 4     | Struktur Bagian dalam Bumi | T.B.A |
-| 5     | Gelombang Seismik | T.B.A |
-| 6     | Data Seismologi Digital | T.B.A |
-| 7     | Aplikasi Seismologi |  T.B.A |
+| 1     | Motivasi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Untitled1.ipynb) |
+| 2     | Analisis data runtun waktu | T.B.A |
+| 3    | Perulangan dengan loop | T.B.A |
+| 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
+| 5     | Analisis data dari beberapa file, pilihan | T.B.A |
+| 6     | Membuat fungsi, eror dan penanganannya | T.B.A |
+| 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
 | 9     | Waktu Penjalaran Gelombang Seismik| [T.B.A](#) |
 | 10     | Lintasan Gelombang Seismik dan Fase Gempa | [T.B.A](#) |
