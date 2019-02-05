@@ -11,7 +11,7 @@ Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
 ![Seismograms](https://www.researchgate.net/profile/Heiner_Igel/publication/284186510/figure/fig5/AS:297878586183684@1448031197272/Examples-of-3D-grids-a-Stair-step-representation-of-a-complex-free-surface-with-fi.png)
 ## Aras Kompetensi
-Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi, tentang gempa bumi dalam rangka memahami terminologi, dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang gempabumi. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa dan tindakan untuk mengurangi risiko bila terjadi gempa.
+Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar untuk memecahkan permasalahan di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak.
 
 ## Pengampu
 - Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
@@ -62,11 +62,11 @@ T.B.A = to-be-anounced
 
 
 ## BukuAcuan:
-1. Kulhanek, O., 1997: Anatomy of Seismograms, Elsevier, Netherland.
+1. Scopatz and Huff, 2015: Effective Computation in Physics, O'Reilly MediaElsevier, Netherland.
 2. Markus Bath (1979). Introduction to Seismology, Birkhauser Verlag.
 3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/411QOuJzYAL._SY291_BO1,204,203,200_QL40_.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
+<img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
 
 ## Aplikasi Seismologi:
 1. [Obspy](https://github.com/obspy/obspy/wiki): A Python Framework for Seismology.
