@@ -48,13 +48,13 @@ Berikut jadwal pertemuan setiap minggunya
 | 6     | Membuat fungsi, eror dan penanganannya | T.B.A |
 | 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-| 9     | Waktu Penjalaran Gelombang Seismik| [T.B.A](#) |
-| 10     | Lintasan Gelombang Seismik dan Fase Gempa | [T.B.A](#) |
-| 11     | Parameter Sumber dan Penentuannya | [T.B.A](#) |
-| 12     | Mekanisme Gempabumi 1 | [T.B.A](#) |
-| 13     | Mekanisme Gempabumi 2 | [T.B.A](#) |
-| 14     | Statistika Gempabumi | [T.B.A](#) |
-| 15     | Tes Nuklir, Getaran karena Ledakan dan Seismologi Planet  | [T.B.A](#) |
+| 9     | MATLAB| [T.B.A](#) |
+| 10     | MATLAB | [T.B.A](#) |
+| 11     | MATLAB | [T.B.A](#) |
+| 12     | MATLAB | [T.B.A](#) |
+| 13     | MATLAB | [T.B.A](#) |
+| 14     | MATLAB | [T.B.A](#) |
+| 15     | MATLAB | [T.B.A](#) |
 | 16     | Ujian Akhir Semester | [T.B.A](#) |
 
 T.B.A = to-be-anounced 
