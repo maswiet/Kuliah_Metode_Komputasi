@@ -40,7 +40,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Motivasi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Untitled1.ipynb) |
+| 1     | Motivasi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/Metkom_Motivate.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=Metkom_Motivate.ipynb) |
 | 2     | Analisis data runtun waktu | T.B.A |
 | 3    | Perulangan dengan loop | T.B.A |
 | 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
