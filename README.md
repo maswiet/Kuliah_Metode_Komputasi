@@ -21,6 +21,7 @@ Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi d
 
 ## Pengampu
 - Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
+- **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 Follow me on [![alt text][1.1]][1]
 
 ## Prasyarat: -
