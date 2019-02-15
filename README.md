@@ -67,5 +67,6 @@ T.B.A = to-be-anounced
 
 <img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51CxdWNJ%2BOL._SX379_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
 
-## Aplikasi Seismologi:
+## Aplikasi Komputasi Geofisika:
 1. [Obspy](https://github.com/obspy/obspy/wiki): A Python Framework for Seismology.
+2. [Verde](http://www.fatiando.org/verde/latest/): Processing and Gridding Spatial Data
