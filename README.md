@@ -11,7 +11,7 @@ Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
 ![Seismograms](https://www.researchgate.net/profile/Heiner_Igel/publication/284186510/figure/fig5/AS:297878586183684@1448031197272/Examples-of-3D-grids-a-Stair-step-representation-of-a-complex-free-surface-with-fi.png)
 ## Aras Kompetensi
-Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer untuk memecahkan masalah di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
+Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer dan membuat program komputer untuk memecahkan masalah di geofisika yang sederhana. Untuk masalah pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
 ## Pengampu
 - Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
@@ -20,7 +20,7 @@ Follow me on ![alt text][1.1]
 
 ## Prasyarat: -
 ## **Silabus**: 
-Pengenalan komputer dan pemprogaman, Struktur umum program, elemen-elemen pokok program dan algoritma program, Fungsi dan pemodulan dalam program, Operasi Bersyarat dan Operasi Perulangan, Larik dan Pointer (satu dimensi dan multi- dimensi), Operasi I/O dan Tampilan, Aplikasi komputasi dan pemprograman dalam Fisika dan Geofisika. Pemrosesan data : Karakteristik Data geofisika (data lapangan dan pembangkitan data sintetik), Analisa sifat statistik data geofisika (Ratarata , Modus, Median, Distribusi dan Variansi, Deviasi standar ), Analisa data dalam kawasan ruang frekuensi, Pentapisan ( Tapis lolos bawah , lolos atas, lolos pita dan tapis stop pita), Pembuatan Kontr.
+Pengenalan komputer dan pemrogaman, Struktur umum program, elemen-elemen pokok program dan algoritma program, Fungsi dan pemodulan dalam program, Operasi Bersyarat dan Operasi Perulangan, Larik dan Pointer (satu dimensi dan multi- dimensi), Operasi I/O dan Tampilan, Aplikasi komputasi dan pemprograman dalam Fisika dan Geofisika. Pemrosesan data : Karakteristik Data geofisika (data lapangan dan pembangkitan data sintetik), Analisa sifat statistik data geofisika (Ratarata , Modus, Median, Distribusi dan Variansi, Deviasi standar ), Analisa data dalam kawasan ruang frekuensi, Pentapisan ( Tapis lolos bawah , lolos atas, lolos pita dan tapis stop pita), Pembuatan Kontur.
 
 ## Kompetensi yang diberikan
 
@@ -34,7 +34,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
 - Jum'at, jam 13:30 s.d. 15:10 di S1.101
 
-Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 (meskipun di Jepang konon sudah 5.0) pastinya tidak lepas dari aplikasi, sehingga kuliah ini menjadi sangat penting untuk memberikan dasar-dasar komputasi yang menjadi basis dari aplikasi yang sekarang digunakan dalam segala aspek kehidupan. Kami akan menyampaikan materi kuliah komputasi ini, dengan menggunakan sebuah bahasa pemrograman yang moderen, dinamis dan fleksibel, yang digunakan sebagai basis komputasi di Universitas di Amerika, yaitu bahasa [Python](http://python.org). Namun untuk memberikan wawasan yang lebih luas, kami juga akan memberikan contoh penggunaanMATLAB untuk komputasi. Kedua bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/) dan Matlab Exchange community. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
+Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 (meskipun di Jepang konon sudah 5.0) pastinya tidak lepas dari aplikasi, sehingga kuliah ini menjadi sangat penting untuk memberikan dasar-dasar komputasi yang menjadi basis dari aplikasi yang sekarang digunakan dalam segala aspek kehidupan. Kami akan menyampaikan materi kuliah komputasi ini, dengan menggunakan sebuah bahasa pemrograman yang moderen, dinamis dan fleksibel, yang digunakan sebagai basis komputasi di Universitas-Universitas di Amerika, yaitu bahasa [Python](http://python.org). Namun untuk memberikan wawasan yang lebih luas, kami juga akan memberikan contoh penggunaanMATLAB untuk komputasi. Kedua bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/) dan Matlab Exchange community. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
 Berikut jadwal pertemuan setiap minggunya
 
