@@ -31,7 +31,7 @@ Pengenalan komputer dan pemrogaman, Struktur umum program, elemen-elemen pokok p
 
 Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah MMK ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya:
 1. G2 Pengetahuan - Mahasiswa dapat menjelaskan istilah dasar dalam komputasi, bahasa pemrograman, algoritma.
-2. G3 Ketrampilan Umum - Mahasiswa dapat mendemonstrasikan Python untuk memecahkan masalah geofisika. 
+2. G3 Ketrampilan Umum - Mahasiswa dapat mendemonstrasikan Python dan Matlab untuk memecahkan masalah geofisika. 
 
 
 ## Jadwal
