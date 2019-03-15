@@ -47,7 +47,7 @@ Berikut jadwal pertemuan setiap minggunya
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
 | 1     | Motivasi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/Metkom_Motivate.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=Metkom_Motivate.ipynb) |
-| 2     | Analisis data runtun waktu | T.B.A |
+| 2     | Analisis data runtun waktu | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/StringLoopFunc.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=StringLoopFunc.ipynb)|
 | 3    | Perulangan dengan loop | T.B.A |
 | 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
 | 5     | Analisis data dari beberapa file, pilihan | T.B.A |
