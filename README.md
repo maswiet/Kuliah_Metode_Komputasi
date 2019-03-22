@@ -51,7 +51,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 3    | Perulangan dengan loop | T.B.A |
 | 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
 | 5     | Analisis data dari beberapa file, pilihan | T.B.A |
-| 6     | Membuat fungsi, eror dan penanganannya | T.B.A |
+| 6     | Membuat fungsi, eror dan penanganannya |  [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/Function_.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=Function_.ipynb) |
 | 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
 | 9     | MATLAB| [T.B.A](#) |
