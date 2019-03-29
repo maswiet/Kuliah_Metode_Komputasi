@@ -52,7 +52,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
 | 5     | Analisis data dari beberapa file, pilihan | T.B.A |
 | 6     | Membuat fungsi, eror dan penanganannya |  [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/Function_.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=Function_.ipynb) |
-| 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/uts.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=uts.ipynb)|
+| 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Metode_Komputasi/blob/master/before_uts.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Metode_Komputasi/master?filepath=before_uts.ipynb)|
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
 | 9     | MATLAB| [T.B.A](#) |
 | 10     | MATLAB | [T.B.A](#) |
