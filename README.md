@@ -38,7 +38,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Jum'at, jam 13:30 s.d. 15:10 di S1.101
+- Rabu, jam 15:30 s.d. 17:10 di S1.101
 
 Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 (meskipun di Jepang konon sudah 5.0) pastinya tidak lepas dari aplikasi, sehingga kuliah ini menjadi sangat penting untuk memberikan dasar-dasar komputasi yang menjadi basis dari aplikasi yang sekarang digunakan dalam segala aspek kehidupan. Kami akan menyampaikan materi kuliah komputasi ini, dengan menggunakan sebuah bahasa pemrograman yang moderen, dinamis dan fleksibel, yang digunakan sebagai basis komputasi di Universitas-Universitas di Amerika, yaitu bahasa [Python](http://python.org). Namun untuk memberikan wawasan yang lebih luas, kami juga akan memberikan contoh penggunaanMATLAB untuk komputasi. Kedua bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/) dan Matlab Exchange community. Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
