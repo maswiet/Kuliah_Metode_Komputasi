@@ -20,7 +20,7 @@ Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer dan membuat program komputer untuk memecahkan masalah di geofisika yang sederhana. Untuk masalah pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
 ## Pengampu
-- Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
+- Dr. Theodosius Marwan Irnaka, M.Sc. (Setelah Ujian Mid-Term)
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 Follow me on [![alt text][1.1]][1]
 
