@@ -15,7 +15,7 @@
 # Kuliah Metode Komputasi (MFG1902)
 Kuliah Metkom di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
-![Seismograms](https://www.researchgate.net/profile/Heiner_Igel/publication/284186510/figure/fig5/AS:297878586183684@1448031197272/Examples-of-3D-grids-a-Stair-step-representation-of-a-complex-free-surface-with-fi.png)
+![Seismograms](https://images.app.goo.gl/BTiw3ftpeYCA2FpY6)
 ## Aras Kompetensi
 Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer dan membuat program komputer untuk memecahkan masalah di geofisika yang sederhana. Untuk masalah pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
