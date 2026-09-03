@@ -1,6 +1,6 @@
 # Tugas Kelompok — Metode Komputasi (Geofisika)
 
-**Pengganti kuliah tatap muka** · Dikerjakan berkelompok · Deadline: (isi sendiri)
+**Pengganti kuliah tatap muka** · Dikerjakan berkelompok · Deadline: (05.09.26:23.59 @myemail)
 
 ---
 
