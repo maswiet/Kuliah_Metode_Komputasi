@@ -1,6 +1,6 @@
 # Tugas Kelompok — Metode Komputasi (Geofisika)
 
-**Pengganti kuliah tatap muka** · Dikerjakan berkelompok · Deadline: (05.09.26:23.59 @myemail)
+**Pengganti kuliah tatap muka** · Dikerjakan berkelompok · Deadline: (06.09.26:23.59 @myemail)
 
 ---
 
@@ -13,7 +13,7 @@
   (Kelompok 1 & 11 → Tugas 1, Kelompok 2 & 12 → Tugas 2, … , Kelompok 10 & 20 → Tugas 10)
 - Kedua kelompok pemegang tugas yang sama menjadi **pasangan reviewer** satu sama lain (lihat Bagian 4)
 
-**Daftar anggota lengkap ada di Lampiran C.** Pembagian dilakukan secara acak (seed 20260904) tanpa mempertimbangkan urutan presensi maupun kedekatan pertemanan.
+**Daftar anggota lengkap ada di Lampiran C.** Pembagian dilakukan secara acak (seed 20260904) tanpa mempertimbangkan urutan presensi maupun pertemanan.
 
 **Pembagian peran di dalam kelompok** (tuliskan di halaman depan laporan):
 
@@ -39,12 +39,12 @@ Setiap orang tetap wajib **memahami seluruh kode**, bukan hanya bagiannya.
 `scipy.interpolate.*`, `scipy.integrate.*`, `scipy.optimize.*`.
 Fungsi-fungsi tersebut **hanya boleh dipakai sebagai pembanding/validasi** di akhir, dan wajib disebutkan.
 
-**Data unik per kelompok.** Setiap kelompok sudah mendapat **angka seed sendiri** (lihat Lampiran C — diambil dari 3 digit terakhir NIM ketua kelompok). Semua data sintetik wajib dibangkitkan dengan `np.random.seed(SEED)` memakai angka tersebut, dan nilai SEED dicetak di awal program. Karena itu angka hasil setiap kelompok berbeda, termasuk antara dua kelompok yang memegang tugas sama — laporan dengan angka identik akan otomatis terdeteksi.
+**Data unik per kelompok.** Setiap kelompok sudah mendapat **angka seed sendiri** (lihat Lampiran C — diambil dari 3 digit terakhir NIM ketua kelompok). Semua data sintetik wajib dibangkitkan dengan `np.random.seed(SEED)` memakai angka tersebut, dan nilai SEED dicetak di awal program. Karena itu angka hasil setiap kelompok berbeda, termasuk antara dua kelompok yang memegang tugas sama.
 
 **Standar penulisan kode (ini dinilai):**
 - Setiap tahap program mencetak log: tahap apa yang mulai, tahap apa yang selesai
 - Untuk loop panjang: tampilkan **persentase progres dan waktu berjalan/ETA**
-- Program harus **gagal dengan pesan jelas** yang menyebut tahap mana yang bermasalah — jangan diam lalu crash
+- Program harus **gagal dengan pesan jelas** yang menyebut tahap mana yang bermasalah
 - Setiap fungsi diberi docstring dan **nama anggota kelompok yang menulisnya**
 
 ---
@@ -69,7 +69,7 @@ Setiap kelompok harus menemukan dan menuliskan:
 - Minimal **2 kelemahan atau bug** pada kode kelompok pasangan (boleh: kasus batas tidak ditangani, pivot nol, indeks salah, konvergensi tidak dicek, dsb.)
 - **1 saran perbaikan konkret**
 
-Hasil cross-review dikumpulkan bersama laporan. Kelompok yang bugnya ditemukan **tidak dikurangi nilainya** — justru yang menemukan bug mendapat nilai tambahan. Ini mendorong pembacaan kode secara sungguh-sungguh.
+Hasil cross-review dikumpulkan bersama laporan. Kelompok yang bugnya ditemukan **tidak dikurangi nilainya** — justru yang menemukan bug mendapat nilai tambahan.
 
 ---
 
